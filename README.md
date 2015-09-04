@@ -1,7 +1,5 @@
 ##Código de Conduta APyB
 
-###status: rascunho
-
 Este documento é direcionado à toda comunidade da linguagem de programação Python do Brasil. Por meio deste, a Associação Python Brasil (APyB), externará expectativas e diretrizes a serem seguidas em todos os meios de comunicação, divulgação e utilização, sejam eles online ou offline, relacionados a linguagem de programação Python.
 
 O objetivo deste documento é proteger todos os envolvidos na comunidade de danos e perigos morais. A APyB dedica-se a promover uma comunidade respeitosa e livre de assédio para todos.
