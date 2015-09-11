@@ -1,4 +1,4 @@
-##Código de Conduta APyB
+## Código de Conduta APyB
 
 Este documento é direcionado à toda comunidade da linguagem de programação Python do Brasil. Por meio deste, a Associação Python Brasil (APyB), externará expectativas e diretrizes a serem seguidas em todos os meios de comunicação, divulgação e utilização, sejam eles online ou offline, relacionados a linguagem de programação Python.
 
@@ -12,7 +12,7 @@ Aos que forem assediados, e aos que presenciem o assédio a outro membro da comu
 
 A Associação Python Brasil agradece a ajuda de todos para que possamos fomentar uma comunidade saudável e acolhedora. 
 
-# English
+# APyB's Code of Conduct (english version)
 
 This document is directed to entire community of Python programming language of Brazil. Hereby, the Associção Python Brasil (APyB - Python Brazil Association), had expressed expectations and guidelines to be followed in all the media, dissemination and use, whether online or offline, related to Python programming language.
 
