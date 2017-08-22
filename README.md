@@ -1,27 +1,40 @@
-## Código de Conduta APyB
+# Código de Conduta do Evento Python Brasil
 
-Este documento é direcionado à toda comunidade da linguagem de programação Python do Brasil. Por meio deste, a Associação Python Brasil (APyB), externará expectativas e diretrizes a serem seguidas em todos os meios de comunicação, divulgação e utilização, sejam eles online ou offline, relacionados a linguagem de programação Python.
+O evento Python Brasil é um ambiente amistoso, de boa convivência, inclusivo e
+livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é
+exigida.
 
-O objetivo deste documento é proteger todos os envolvidos na comunidade de danos e perigos morais. A APyB dedica-se a promover uma comunidade respeitosa e livre de assédio para todos.
+Com esta finalidade, a organização do evento conta com uma Equipe de Resposta
+que atua para garantir um ambiente com essas qualidades.
 
-Em qualquer dos meios citados não deve ser tolerado qualquer forma de assédio ou intimidação. O assédio inclui comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoais, bem como comentários ou imagens sexuais em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, encalço, fotografias ou gravações que gerem embaraço, contato físico inadequado ou atenção sexual indesejada. Também são condenadas piadas e brincadeiras de assédio, de cunho sexista, racista, ou que ofendam/excluam qualquer indivíduo ou grupo de indivíduos.
+Por isso:
 
-Espera-se que todos os membros da comunidade sejam tratados com gentileza, não sejam insultados ou deixados de lado. Solicitações para descontinuidade de comportamentos de bullying ou qualquer tipo de assédio devem ser cumpridas com imediatidade. A insistência em tais comportamentos devem ser tratadas com severidade pelos responsáveis pelo meio no qual foram deferidas, estes devem tomar as atitudes cabíveis dentro de suas atribuições e possibilidades. Em meios digitais, estas atitudes podem variar de notificações escritas até o bloqueio do acesso, em meios físicos, como em eventos, devem partir de notificação verbal até o convite para que o agressor se retire do local.
+1. Não é tolerado nenhum tipo de assédio, discriminação inapropriada ou 
+humilhação pública;
+1. Não é tolerado o descumprimento das leis brasileiras;
+1. Toda pessoa presente no evento, independente do seu papel, está sujeita a
+estas regras;
 
-Aos que forem assediados, e aos que presenciem o assédio a outro membro da comunidade, espera-se que tentem interromper a agressão e que se reportem aos responsáveis pelo meio no qual a agressão ocorreu, ou diretamente a APyB.
+Desta forma, entendemos que:
 
-A Associação Python Brasil agradece a ajuda de todos para que possamos fomentar uma comunidade saudável e acolhedora. 
+- Assédio é a ação de insistir, perseguir ou coagir outra pessoa a um
+comportamento involuntário.
+- Discriminação inapropriada é o ato de separar, injuriar ou humilhar alguém
+promovendo sua exclusão por atributo particular da mesma.
+- Humilhação pública é o ato de submeter, rebaixar, ridicularizar ou promover o
+vexame de outro publicamente.
 
-# APyB's Code of Conduct (english version)
+O público alvo do evento também inclui crianças e adolescentes, por isso
+buscamos manter um ambiente apropriado para todas as faixas etárias. Sendo
+assim, linguagem e imagens sexualizadas não são adequados para palestras e ações
+promocionais de patrocinadores.
 
-This document is directed to entire community of Python programming language of Brazil. Hereby, the Associção Python Brasil (APyB - Python Brazil Association), had expressed expectations and guidelines to be followed in all the media, dissemination and use, whether online or offline, related to Python programming language.
+Se você se sentiu assediado, discriminado indevidamente ou humilhado, ou
+presenciou alguma destas atitudes, por favor entre em contato com a Equipe de
+Resposta.
 
-The purpose of this document is to protect everyone involved in the community from moral damages and dangers. APyB is dedicated to promote a respectful and harassment-free community for all.
-
-In any of these environments harassment or intimidation should not be tolerated in any form. Harassment includes verbal or electronic offensive comments related to characteristics or personal choices, as well as comments and images of sexual nature in public or digital spaces, deliberated intimidation, bullying, photographs or recordings that generate embarrassment, inappropriate physical contact or unwanted sexual behaviour in any form. Jokes of sexist and racist nature, or that offend/exclude any individual or group of individuals are also condemned.
-
-It is expected that all community members are treated with kindness and not insulted or pushed aside. Requests for discontinuation of bullying behavior or any kind of harassment must be met with immediacy. Insistence on such behavior should be dealt with severity by those responsible for the environment were they were deferred, whom should take the appropriate actions within its powers and capabilities. In digital media, this can range from written notification to access blocking, on physical means (eg.: events), they may go from verbal notification to a formal invitation for the aggressor to leave the site.
-
-Those who are harassed, and those who witness harassment to a community member, are expected to try to stop the aggression and report to the personnel responsible for the environment in which the assault occurred, or directly to APyB.
-
-The Python Brazil Association appreciates everyone's help so we can foster a healthy and welcoming community.
+Havendo um relato de violação destes princípios, a Equipe de Resposta realizará
+a devida análise e, quando necessário, tomará as ações para impedir a
+reincidência. Estas ações podem, mas não se restringem nem implicam em ir desde
+uma conversa em busca da retratação até um convite a se retirar do evento por
+tempo indeterminado.
